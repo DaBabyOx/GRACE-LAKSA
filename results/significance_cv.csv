@@ -1,0 +1,7 @@
+metric,comparator,n_pairs,ref_mean,cmp_mean,mean_diff,ref_wins,wilcoxon_p,wilcoxon_p_holm,ttest_p,significant_0.05,verdict
+main_score,GAT-FT,15,0.2693,0.2736,-0.0044,5,0.3591,0.7183,0.4098,False,GRACE+CBRMP-FT < GAT-FT (n.s.)
+main_score,GRACE-Core-FT,15,0.2693,0.2704,-0.0011,6,0.8904,0.8904,0.8399,False,GRACE+CBRMP-FT < GRACE-Core-FT (n.s.)
+category_macro_f1,GAT-FT,15,0.2697,0.278,-0.0083,6,0.2219,0.4439,0.1697,False,GRACE+CBRMP-FT < GAT-FT (n.s.)
+category_macro_f1,GRACE-Core-FT,15,0.2697,0.2673,0.0024,8,0.7615,0.7615,0.7069,False,GRACE+CBRMP-FT > GRACE-Core-FT (n.s.)
+category_tail_f1,GAT-FT,15,0.2495,0.2476,0.0019,8,0.8469,1.0,0.7762,False,GRACE+CBRMP-FT > GAT-FT (n.s.)
+category_tail_f1,GRACE-Core-FT,15,0.2495,0.2542,-0.0047,6,0.6292,1.0,0.5047,False,GRACE+CBRMP-FT < GRACE-Core-FT (n.s.)

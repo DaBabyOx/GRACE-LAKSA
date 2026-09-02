@@ -1,0 +1,4 @@
+model,main_score_mean,main_score_std,category_macro_f1_mean,category_macro_f1_std,category_tail_f1_mean,category_tail_f1_std,head_f1_mean,head_f1_std,medium_f1_mean,medium_f1_std,tail_f1_mean,tail_f1_std,rare_f1_mean,rare_f1_std,opd_macro_f1_mean,opd_macro_f1_std
+GAT-FT,0.2736,0.0245,0.278,0.03,0.2476,0.0399,0.6554,0.055,0.5505,0.0445,0.2476,0.0399,0.0496,0.0358,0.297,0.0293
+GRACE-Core-FT,0.2704,0.0163,0.2673,0.0222,0.2542,0.0357,0.6465,0.0418,0.5344,0.0403,0.2542,0.0357,0.0501,0.0348,0.2955,0.0225
+GRACE+CBRMP-FT,0.2693,0.0225,0.2697,0.0271,0.2495,0.0432,0.6456,0.049,0.5381,0.0393,0.2495,0.0432,0.0454,0.0341,0.2923,0.0223
