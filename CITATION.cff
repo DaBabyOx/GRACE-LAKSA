@@ -1,0 +1,22 @@
+title: "GRACE-LAKSA Public Verification Bundle"
+version: "v1.0-fmlds2026"
+date-released: 2026-09-05
+
+authors:
+  - family-names: Tarigan
+    given-names: Daffa Farras Putra
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+
+  - family-names: Fransisco
+    given-names: Kevin
+
+  - family-names: Swastika
+    given-names: Arya
+
+  - family-names: Madyatmadja
+    given-names: Evaristus Didik
+
+repository-code: "https://github.com/DaBabyOx/GRACE-LAKSA"
+url: "https://github.com/DaBabyOx/GRACE-LAKSA/releases/tag/v1.0-fmlds2026"
+
+license: Apache-2.0
