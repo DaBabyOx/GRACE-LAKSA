@@ -1,9 +1,0 @@
-@inproceedings{tarigan2026gracelaksa,
-  title     = {GRACE-LAKSA: A Retrieval-Augmented Graph Framework for Long-Tail Civic Complaint Understanding and Routing},
-  author    = {Tarigan, Daffa Farras Putra and
-               Fransisco, Kevin and
-               Swastika, Arya and
-               Madyatmadja, Evaristus Didik},
-  booktitle = {IEEE FMLDS},
-  year      = {2026}
-}
